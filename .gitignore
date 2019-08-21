@@ -1,0 +1,9 @@
+**/node_modules
+Dynasist*.app
+.alpackages
+.alcache
+*.p12
+**/.vscode/rad.json
+sign.ps1
+signtool*
+test.ps1

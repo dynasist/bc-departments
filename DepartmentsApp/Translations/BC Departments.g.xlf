@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC Departments">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3748716062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 3391920785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GUID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field GUID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 1023254165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent GUID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Parent GUID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 3711240756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Object ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 3811799877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Caption</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Object Caption - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 2200046723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indentation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Indentation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 967366075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculated Position</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Calculated Position - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 1882232077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Menu Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 1539408610 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Visible</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Visible - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 662456783 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Application Area</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Application Area - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 3544716464 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Department Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 1132089966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Member of Menu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Member of Menu - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 4043460517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Parent Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 812643780 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Main Menu</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Main Menu - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 56735747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Position</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Position - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 2234794236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>First Child</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field First Child - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 4289358409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next Node</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Next Node - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3748716062 - Field 871538349 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suite Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentItem_DSK - Field Suite Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4021513739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deparment Suite</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentSuite_DSK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4021513739 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentSuite_DSK - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4021513739 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentSuite_DSK - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4021513739 - Field 743673692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DepartmentSuite_DSK - Field Version List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 996537273 - Method 2933801302 - NamedType 4104156781" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu could not be found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DepartmentsMgmt_DSK - Method RunMenu - NamedType NoMenuMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 483020306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Menu Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DepartmentItemCard_DSK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1347638851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DepartmentItems_ DSK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 726625864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DepartmentsHost_DSK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3421410078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Suites</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DepartmentSuites_DSK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3421410078 - Action 3201496503 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DepartmentSuites_DSK - Action Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3421410078 - Action 2577478375 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Menu Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DepartmentSuites_DSK - Action MenuItems - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

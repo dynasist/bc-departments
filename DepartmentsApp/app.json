@@ -1,0 +1,28 @@
+{
+  "id": "271ff1bf-e17e-41ec-9059-a95906a80f18",
+  "name": "BC Departments",
+  "publisher": "Dynasist Solutions Kft.",
+  "brief": "Departments menu for Business Central.",
+  "description": "Departments menu for Business Central.",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://dynasist.com",
+  "logo": "logo.png",
+  "target":"Extension",
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ],  
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "runtime": "3.0",
+  "idRange": {
+    "from": 89900,
+    "to": 89909
+  }
+}
