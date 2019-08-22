@@ -16,7 +16,7 @@ Departments menu was a feature of Windows Client (RTC) that is unavailable on th
 
 ## Screenshots
 
-### Department View: Seach (ALT+Q) -> Departments
+### Department View: Search (ALT+Q) -> Departments
 
 ![](https://raw.githubusercontent.com/dynasist/bc-departments/master/media/li_cover.jpg)
 
@@ -31,3 +31,11 @@ Departments menu was a feature of Windows Client (RTC) that is unavailable on th
 ## Installation
 
 Download and build the project by yourself or use company-signed, cloud-compatible packages in [SignedPackages](https://github.com/dynasist/bc-departments/tree/master/SignedPackages) folder.
+
+## Usage
+
+1. Get MenuSuite objects in txt format using C/Side or PowerShell
+2. Open Department Suites page (Search (ALT+Q) -> Department Suites)
+3. Choose "Import File" action to upload object txts
+4. Upon completition Department Suite records should have been created
+5. Open Departmens page (Search (ALT+Q) -> Departments)
